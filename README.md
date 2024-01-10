@@ -1,7 +1,7 @@
 # python_data_wrangling_roman_emperors
 ## A repository to exercise data wrangling in Python working with a Wikipedia list of Roman Emperors.
 
-The goal of this project is to laod a list of the Roman Emperors from Wikipedia and to wrangle and clean the list in Python.
+The purpose of this project is to laod a list of the Roman Emperors from Wikipedia and to wrangle and clean the list in Python.
 The data used comes from the Wikipedia page: <https://en.wikipedia.org/wiki/List_of_Roman_emperors>.
 
 --------------------------------------
